@@ -1,0 +1,5 @@
+include ':joke-compiler'
+include ':joke-annotations'
+include ':joke-pay'
+include ':app'
+rootProject.name = "androidCompiler"
